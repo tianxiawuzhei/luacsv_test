@@ -1,0 +1,4 @@
+# assuming Lua is on your include path, adjust accordingly
+gcc -shared -O1 csv.c -o csv.so
+
+
